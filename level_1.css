@@ -1,5 +1,5 @@
 /*Nivel_1*/
-. tower-group-1 {
-    pantalla: flex;
+.tower-group-1 {
+    display: flex;
     justify-content: center;
     }
